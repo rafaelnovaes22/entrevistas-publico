@@ -1,0 +1,23 @@
+# Arquivos pessoais devem ficar em privado/, nunca no histórico público.
+privado/
+.env
+.env.*
+*.log
+*.db
+*.sqlite*
+*.pdf
+*.docx
+*.png
+*.jpg
+*.jpeg
+__pycache__/
+*.pyc
+.venv/
+.ruff_cache/
+.claude/
+.codex/
+.agents/
+.obsidian/
+.vscode/
+.DS_Store
+Thumbs.db
